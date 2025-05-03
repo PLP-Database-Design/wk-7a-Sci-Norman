@@ -40,11 +40,11 @@ INSERT INTO Orders (OrderID, CustomerName)
 
 VALUES
 
-(101, 'John Doe'),
+(101, 'John Dreye'),
           
 (102, 'Jane Smith'),
 
-(103, 'Emily Clark');
+(103, 'Emily blork');
 
 CREATE TABLE Product (
 
